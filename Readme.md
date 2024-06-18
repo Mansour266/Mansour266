@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adham Mansour=====================================================================================================================================Computer Science Student------------------------Third-year Computer Science student with a strong foundation in programming and a growing passion for cybersecurity. Actively expanding knowledge through independent study to pursue a career in information security.* 🌍  I'm based in Cairo, Egypt* 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/adham-mansour)* ✉️  You can contact me at [mansour24@protonmail.com](mailto:mansour24@protonmail.com)* 🧠  I'm learning CompTIA Security+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adham Mansour
+=====================================================================================================================================
+Computer Science Student
+------------------------
+Third-year Computer Science student with a strong foundation in programming and a growing passion for cybersecurity. Actively expanding knowledge through independent study to pursue a career in information security.* 🌍  I'm based in Cairo, Egypt* 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/adham-mansour)* ✉️  You can contact me at [mansour24@protonmail.com](mailto:mansour24@protonmail.com)* 🧠  I'm learning CompTIA Security+
 
 ### Skills
 
