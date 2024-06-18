@@ -1,5 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adham Mansour
 =====================================================================================================================================
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2F5ry-200hErMAAAAd%2Fhacker-hacker-man.gif&f=1&nofb=1&ipt=cdb6ba876d040524b68638d175ca45bf57f569b9a337700e44d14540786a03a6&ipo=images">
+
 Computer Science Student
 ------------------------
 Third-year Computer Science student with a strong foundation in programming and a growing passion for cybersecurity. Actively expanding knowledge through independent study to pursue a career in information security.
